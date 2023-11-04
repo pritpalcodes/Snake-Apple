@@ -32,13 +32,4 @@ Welcome to the "Snake & Apple" game, a Python project built using the 'pygame' m
 ## Demo
 ![game_preview](https://github.com/pritpalcodes/Snake-Apple/assets/90276050/8c087ff2-4367-4489-b335-567c7c1652d7)
 
-
-## Resources
-
-- **Background Image:** 'resources/background.jpg'
-- **Apple Image:** 'resources/apple.jpg'
-- **Block Image:** 'resources/block.jpg'
-- **Background Music:** 'resources/bg_music_1.mp3'
-- **Sound Effects:** 'resources/crash.mp3', 'resources/ding.mp3'
-
 Have fun playing and learning with the "Snake & Apple" game! If you have any questions or feedback, feel free to reach out.
