@@ -30,7 +30,8 @@ Welcome to the "Snake & Apple" game, a Python project built using the 'pygame' m
 - Run 'main.py' to play the game.
 
 ## Demo
-![](https://github.com/pritpalcodes/Snake-Apple/assets/90276050/caf26906-63e2-4ce7-b648-cb8507e49dc3)
+![game_preview](https://github.com/pritpalcodes/Snake-Apple/assets/90276050/8c087ff2-4367-4489-b335-567c7c1652d7)
+
 
 ## Resources
 
