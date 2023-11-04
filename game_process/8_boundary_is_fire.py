@@ -162,7 +162,7 @@ class Game:
     def run(self):
         running = True
         pause = False
-
+        
         while running:
             for event in pygame.event.get():
                 if event.type == KEYDOWN:
