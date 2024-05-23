@@ -1,4 +1,4 @@
-# "Snake & Apple" Game
+# Snake & Apple Game
 
 Welcome to the "Snake & Apple" game, a Python project built using the 'pygame' module. This classic game offers a great learning experience for Python beginners while incorporating Object-Oriented Programming (OOP) principles.
 
