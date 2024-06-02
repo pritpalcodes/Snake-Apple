@@ -10,7 +10,7 @@ Welcome to the "Snake & Apple" game, a Python project built using the 'pygame' m
 - **User Input Handling**: Arrow keys control the snake's movement.
 - **Scoring**: A scoring system tracks the player's progress.
 
-## How to ?
+## How to Play?
 
 1. Clone this repository to your local machine.
 2. Make sure you have Python and the 'pygame' module installed.
